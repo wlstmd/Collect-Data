@@ -1,4 +1,4 @@
-## 구현화면 
+<h2 align="center">구현화면</h2> 
 <p align="center">
   <img src="https://github.com/jinseung0327/Collect-Data/assets/127307160/60147fad-bf5b-4299-8050-5377c0c36b5b" alt="Simulator Screenshot 1" style="width: 30%;"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
